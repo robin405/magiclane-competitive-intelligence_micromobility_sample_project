@@ -535,7 +535,7 @@ def main():
     
     # Main dashboard header
     st.title("BATTLE READY Magic Lane Competitive Intelligence Dashboard against 28 competitors")
-    st.image("https://www.counterpointresearch.com/_File/wp-content/uploads/2024/01/Counterpoint-Core-Scorecard-Location-Platform-Effectiveness-Index-2023-1.png", use_container_width =True)
+    st.image("https://www.counterpointresearch.com/_File/wp-content/uploads/2024/01/Counterpoint-Core-Scorecard-Location-Platform-Effectiveness-Index-2023-1.png" )
     
     
     # Key Metrics (dynamic relative values)
